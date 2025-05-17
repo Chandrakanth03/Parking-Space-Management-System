@@ -16,13 +16,13 @@ A smart parking space monitoring system that detects and displays vacant and occ
 ## 🖼️ UI Screenshots
 
 ### 🎨 Slot Picker Tab
-![Slot Picker](images/slot_picker.png)
+![Slot Picker](https://github.com/Chandrakanth03/Parking-Space-Management-System/blob/main/photos/slot_picker.png.png)
 
 ### 📹 Detection Tab
-![Detection](images/detection_tab.png)
+![Detection](https://github.com/Chandrakanth03/Parking-Space-Management-System/blob/main/photos/detection_tab.png)
 
 ### 📦 Export/Import Tab
-![Export Import](images/export_import.png)
+![Export Import](https://github.com/Chandrakanth03/Parking-Space-Management-System/blob/main/photos/export_tab.png)
 
 > Make sure to place the above images in an `images/` folder in your repository.
 
@@ -60,7 +60,6 @@ parking-space-management/
 - **Streamlit**
 - **cvzone**
 - **Numpy**
-- **PIL (Pillow)**
 
 ---
 
